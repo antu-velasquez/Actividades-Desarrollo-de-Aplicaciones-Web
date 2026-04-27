@@ -1,19 +1,14 @@
-# Control de Tareas y Metas - Actividad Unidad I
+# Actividad 1: To Do List.
 
-Esta es la maqueta funcional de una aplicación web diseñada para gestionar tareas y objetivos personales, con un enfoque en diseño responsivo y maquetación limpia.
+Maqueta de una aplicación para el control de tareas y metas personales. Proyecto desarrollado con **React** y **Bootstrap** enfocado en diseño responsivo.
 
-## Tecnologías utilizadas
-* **React** (Biblioteca principal)
-* **React Bootstrap** (Componentes y sistema de rejilla)
-* **CSS Externo** (Estilos personalizados sin uso de inline-styles)
+## Cómo ejecutarlo:
+1. Abrir el proyecto en [PlayCode.io](https://playcode.io/react).
+2. Asegurarse de que las dependencias `react-bootstrap` y `bootstrap` estén agregadas.
+3. Cargar los archivos `App.jsx`, `index.jsx` y `styles.css`.
 
-## Instrucciones de ejecución
-Para visualizar y ejecutar este proyecto correctamente, sigue estos pasos:
+## Características:
+* **Diseño adaptable:** En PC muestra un formulario lateral y en móvil utiliza una ventana emergente (Modal).
+* **Estilos:** Manejados desde un archivo CSS externo.
 
-1. **Entorno:** El código está diseñado para ejecutarse en [PlayCode.io](https://playcode.io/react).
-2. **Dependencias:** Asegúrate de que el proyecto tenga instaladas las librerías `react-bootstrap` y `bootstrap`.
-3. **Archivos:** Importa `App.jsx` y `styles.css` en tu espacio de trabajo.
-4. **Visualización:** Puedes probar la responsividad ajustando el tamaño del navegador; el formulario pasará de una barra lateral (Desktop) a una ventana emergente/modal (Mobile).
-
-## Autor
-**Antulio** *Desarrollo de Aplicaciones Web - Semana 1*
+**Autor:** Antulio Velasquez.
