@@ -1,6 +1,6 @@
 # Actividad 1: To Do List.
 
-Maqueta de una aplicación para el control de tareas y metas personales. Proyecto desarrollado con **React** y **Bootstrap** enfocado en diseño responsivo.
+Maqueta de una aplicación para el control de tareas y metas personales. Proyecto desarrollado con React y Bootstrap enfocado en diseño responsivo.
 
 ## Cómo ejecutarlo:
 1. Abrir el proyecto en [PlayCode.io](https://playcode.io/react).
