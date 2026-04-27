@@ -13,4 +13,5 @@ Maqueta de una aplicación para el control de tareas y metas personales. Proyect
 
 ## Enlace del proyecto en Playcode:
 https://playcode.io/to-do-list--019dcc6b-dded-72fc-acb2-5423bec8a2b1 .
+
 **Autor:** Antulio Velasquez.
