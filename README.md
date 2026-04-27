@@ -1,4 +1,4 @@
-# Actividad 1: To Do List.
+# Actividad 1: React Bootstrap y CSS.
 
 Maqueta de una aplicación para el control de tareas y metas personales. Proyecto desarrollado con React y Bootstrap enfocado en diseño responsivo.
 
