@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-bootstrap": "2.10.10",
+    "bootstrap": "5.3.8",
+    "redux": "5.0.1",
+    "@reduxjs/toolkit": "2.11.2",
+    "react-redux": "9.2.0"
+  }
+}
