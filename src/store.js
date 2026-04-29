@@ -22,4 +22,4 @@ export const store = configureStore({
   reducer: {
     tasks: tasksSlice.reducer
   }
-});
+}); 
